@@ -27,5 +27,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karina-kayander&" alt="karina-kayander" /></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Karina-Kayander/Karina-Kayander/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Karina-Kayander/Karina-Kayander/blob/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/Karina-Kayander/Karina-Kayander/blob/output/github-snake.svg">
+</picture>
 
 <img width="480" height="338" alt="1774867234241" src="https://github.com/user-attachments/assets/bb8b8f48-8797-4884-bae9-8580e837b6d3" />
