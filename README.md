@@ -1,16 +1,47 @@
-## Hi there 👋
+ Привет! 👋
 
-<!--
-**Karina-Kayander/Karina-Kayander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Карина Каяндер.
 
-Here are some ideas to get you started:
+QA Engineer с опытом тестирования веб- и мобильных приложений, API и микросервисной архитектуры.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech Stack
+
+ Manual Testing
+- Functional Testing
+- Regression Testing
+- Integration Testing
+- Mobile Testing (Android / iOS)
+
+ Automation Testing
+- Playwright + JavaScript
+- Selenium WebDriver + Java
+- Pytest + Python
+
+API & Backend
+- REST API
+- Postman
+- Swagger/OpenAPI
+- RabbitMQ
+- SQL
+
+Tools
+- Jira
+- Confluence
+- GitHub
+- GitLab
+- Android Studio
+- Charles Proxy
+
+ 🚀 Current Focus
+- Playwright
+- TypeScript
+- Test Automation
+- CI/CD
+
+📂 Featured Projects
+- Playwright UI Automation
+- API Automation with Pytest
+- QA Portfolio
+
+ 📫 Contacts
+LinkedIn: www.linkedin.com/in/karina-kayander
