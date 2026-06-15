@@ -45,3 +45,4 @@ Tools
 
  📫 Contacts
 LinkedIn: www.linkedin.com/in/karina-kayander
+<img width="480" height="338" alt="1774867234241" src="https://github.com/user-attachments/assets/bb8b8f48-8797-4884-bae9-8580e837b6d3" />
